@@ -1,0 +1,8 @@
+name: Publish Presentation
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/102673/722573b55f634162b95cf744c41f48f9
+url:
+        http://rpubs.com/publish/claim/102673/fc52f72600b8468e88cd89155f494988
+when: 1440201526.25555
